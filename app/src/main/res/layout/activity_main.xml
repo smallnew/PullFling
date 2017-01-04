@@ -1,4 +1,4 @@
-<com.smallnew.pullfling.lib.PullFlingLayout xmlns:tools="http://schemas.android.com/tools"
+<com.smallnew.pullflinglib.PullFlingLayout xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -35,4 +35,4 @@
         android:background="#44ff0000" >
     </android.support.v4.view.ViewPager>
 
-</com.smallnew.pullfling.lib.PullFlingLayout>
+</com.smallnew.pullflinglib.PullFlingLayout>

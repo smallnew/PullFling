@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_pullflinglayout_topview" type="id"/>
+    <item name="id_pullflinglayout_headview" type="id"/>
+    <item name="id_pullflinglayout_viewpager" type="id"/>
+    <item name="id_pullflinglayout_indicator" type="id"/>
+    <item name="id_pullflinglayout_innerscrollview" type="id"/>
+
+</resources>

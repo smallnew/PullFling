@@ -1,4 +1,4 @@
-<com.smallnew.pullfling.lib.GoScrollView
+<com.smallnew.pullflinglib.GoScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@id/id_pullflinglayout_innerscrollview"
@@ -454,4 +454,4 @@
         </TextView>
     </LinearLayout>
 
-</com.smallnew.pullfling.lib.GoScrollView>
+</com.smallnew.pullflinglib.GoScrollView>

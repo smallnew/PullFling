@@ -1,4 +1,4 @@
-<com.smallnew.pullfling.lib.GoListView
+<com.smallnew.pullflinglib.GoListView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@id/id_pullflinglayout_innerscrollview"
@@ -7,4 +7,4 @@
     android:scrollbars="none" >
 
 
-</com.smallnew.pullfling.lib.GoListView>
+</com.smallnew.pullflinglib.GoListView>
