@@ -7,9 +7,20 @@
 		
 		
 
-
-![image](https://github.com/smallnew/PullFling/raw/master/GIF.gif)
-
+		支持手指往上滑屏幕并离开屏幕之后继续根据滑动速度再滑动一段距离
 
 
+![image](https://github.com/smallnew/PullFling/raw/master/GIF0.gif)
+
+
+		支持手指往下滑后到列表顶部后，根据速度再拉伸头部一段距离
+
+
+![image](https://github.com/smallnew/PullFling/raw/master/GIF1.gif)
+
+
+		暂时支持listview和scrollview，支持下拉放大、居中
+
+
+![image](https://github.com/smallnew/PullFling/raw/master/GIF2.gif)
 
